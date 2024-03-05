@@ -3,16 +3,28 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
+  - name: Main Site
+    url: https://not-games.netlify.app/
+  - name: Beta Site
+    url: https://huntervtharp1018.wixsite.com/unblocked-games
+  - name: AI Chat Service
+    url: https://nextjs-chat3-nine.vercel.app/
+  - name: Fluffy Cupcake
+    url: https://fluffy-cupcake-74f27a.netlify.app/
+  - name: HT's UB Games
+    url: https://unblock-my-stuff.netlify.app/
+  - name: KP's GBA Games
+    url: http://watch-ewing-block-this.netlify.app/
+  - name: 3kh0
+    url: https://bright-wisp-83d563.netlify.app/
+    - name: Absolutely Nothing
+    url: https://123-do-not-block-me.netlify.app/
+    - name: Minecraft
+    url: https://hey-ewing-this-is-not-minecraft.netlify.app/
+    - name: We Game
+    url: http://we-game.netlify.app/
+    - name: Web Chat (beta)
+    url: https://web-chat-app-brown.vercel.app/
     port: 80
     check: "tcp-ping"
     ipv6: true
